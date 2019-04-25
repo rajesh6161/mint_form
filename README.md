@@ -1,2 +1,2 @@
 # mint_form
-This is a The Odin project on the mint form 
+Project: HTML Forms | The Odin Project
