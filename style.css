@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.6em;
+
+}
+
+.clr{
+	clear: both;
+}
+#nav-link{
+	position: absolute;
+	top: 20px;
+	right: 165px;
+}
+.button-2{
+	right: 22px;
+	top: 6px;
+	position: absolute;
+	padding: 4px;
+	width: 130px;
+
+}
+
+.navigation{
+	
+	height:50px;
+}
+.nav-box{
+	float: right;
+	margin-right: 150px;
+}
+
+/* navigation ends */
+
+.container{
+
+
+}
+
+
+.tagline ul{
+	list-style: none;
+	display: inline;
+}
+.tagline li{
+	padding: 0 20px 0 20px;
+	display: inline;
+}
+.tagline{
+	text-align: center;
+}
+
+.form-header{
+	text-align: center;
+	border: 1px solid #333;
+	margin: 20px 350px 20px 350px;
+	background-color: #fff;
+
+}
+.form-header h2{
+	font-size: 28px;
+	margin: 0;
+	font-weight: normal;
+
+
+}
+.form-header p{
+	font-weight: normal;
+	padding-top:10px;
+}
+form{
+	margin:0 35px 0 35px;
+
+}
+form label{
+	display: block;
+	text-align:left;
+}
+input{
+	width: 100%;
+	background: none;
+	border: 1px solid #ddd;
+	padding: 5px;
+	background-color: #fff;
+}
+input:focus{
+	border-color: red;
+	transition: 0.5s;
+}
+#button-2{
+	width: 100%;
+}
+
+.form-footer{
+	margin-top: -20px;
+	background-color: #ddd;
+	width: 100%;
+	font-size: small;
+	padding: 0px;
+	margin-bottom: 0px;
+
+
+}
+.container-fluid{
+	background-color: #ECEEF1;
+}
+
+/* styling icons */
+.fa-leaf{
+	color: green;
+	padding-right: 5px;
+}
+.fa-book{
+	color: red;
+	padding-right: 5px;
+}
+.fa-money-check-alt{
+	color: Mediumslateblue;
+	padding-right: 5px;
+
+}
+
+
